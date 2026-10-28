@@ -1,7 +1,6 @@
 # 🛡️ Insurance Data Analysis Using Python 📊
 
 
-
 ## 📌 Project Overview
 
 This project analyzes insurance customer data using Python and popular data analysis libraries. It explores customer demographics, BMI, smoking habits, and insurance charges through exploratory data analysis (EDA) and data visualization.
@@ -90,3 +89,36 @@ The program displays summary statistics and opens the data visualizations.
 - Customer distribution by smoking status
 - Average insurance charges by smoking status
 - Average charges by region and gender
+- Relationship analysis between age, BMI, and insurance charges
+- Distribution of insurance charges
+
+## 💡 Key Learning Outcomes
+
+- Reading CSV datasets with Pandas
+- Using NumPy for statistical calculations
+- Grouping and aggregating data
+- Performing exploratory data analysis
+- Creating bar charts, scatter plots, and histograms
+- Organizing a Python project for GitHub
+
+## 🚀 Future Improvements
+
+- Analyze a larger public insurance dataset.
+- Add a correlation heatmap.
+- Perform advanced statistical analysis.
+- Build an interactive dashboard using Power BI.
+- Explore machine learning for predicting insurance charges.
+
+## 👩‍💻 Author
+
+**Shejal Dhakate**
+
+- GitHub: [shejal24-rgb](https://github.com/shejal24-rgb)
+- LinkedIn: [linkedin.com/in/shejaldhakate](https://linkedin.com/in/shejaldhakate)
+
+---
+
+⭐ If you find this project useful, consider giving the repository a star.
+
+**#DataAnalysis #Python #Pandas #NumPy #Matplotlib #Seaborn #EDA #GitHubPortfolio #Day20**
+  
